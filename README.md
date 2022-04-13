@@ -31,9 +31,10 @@ We will be covering the following topics:
 5. create a branch called your-name from there: `git checkout -b <your-name>`
 6. Add your 3 lAdd the file to the staging index : `git add README.md`
 7. Save the state of the file by making a commit : `git commit -m "your-message"`
-8. Merge "your-name" branch with "development" branch: 
-9. Push the "development" branch: `git push origin development`
-10. Remove the branch "your-name"
+8. Merge "your-name" branch with "development" branch: `git merge development`
+9. Go back to the development branch: `git checkout development`
+9. Push the "development" branch: `git push -u origin development`
+10. Delete the branch "your-name": `git branch -d <your-name>`
 14. Repeat the 10 steps above for all the invitations you received.
 
 ---
