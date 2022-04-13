@@ -45,8 +45,8 @@ We will be covering the following topics:
 
 ## Collaboration
 
-I am a junior developer at BeCode.
-I have just started my training as an DevOps Engineer.
+I am a junior developer at BeCode.  
+I have just started my training as an DevOps Engineer.  
 I have met new friends and the name of our promotion is LoveLace 8.
 
 Below my colleagues are going to complete the missing part of the story:  
