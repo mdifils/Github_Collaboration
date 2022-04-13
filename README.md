@@ -33,8 +33,8 @@ We will be covering the following topics:
 7. Add 3 lines at the end of the file.
 8. Add the file to the staging index : `git add README.md`
 9. Save the state of the file by making a commit : `git commit -m "your-message"`
-10. Merge "your-name" branch with "development" branch: `git merge development`
-11. Go back to the development branch: `git checkout development`
+10. Go back to the development branch: `git checkout development`
+11. Merge "your-name" branch with "development" branch: `git merge <your-name>`
 12. Push the "development" branch: `git push -u origin development`
 13. Delete the branch "your-name": `git branch -d <your-name>`
 14. Repeat the 13 last steps for all the invitations you received.
