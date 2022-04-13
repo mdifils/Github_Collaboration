@@ -17,8 +17,8 @@ We will be covering the following topics:
 4. Write 3 lines of texts in the README file.
 5. Add the file to the staging index : `git add README.md`
 6. Save the state of the file by making a commit : `git commit -m "your-message"`
-7. Push the branch "development" : `git push origin development`
-8. Invite your colleagues as contributors
+7. Push the branch "development" : `git push -u origin development`
+8. Invite your colleagues as contributors (watch the video below)
 
 [![Add collaborators](https://img.youtube.com/vi/p49LRx3hYI8/0.jpg)](https://www.youtube.com/watch?v=p49LRx3hYI8)
 
