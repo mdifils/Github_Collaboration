@@ -29,13 +29,15 @@ We will be covering the following topics:
 3. List the existing branches: `git branch -a`
 4. Go to the "development" branch: `git checkout development`
 5. create a branch called your-name from there: `git checkout -b <your-name>`
-6. Add your 3 lAdd the file to the staging index : `git add README.md`
-7. Save the state of the file by making a commit : `git commit -m "your-message"`
-8. Merge "your-name" branch with "development" branch: `git merge development`
-9. Go back to the development branch: `git checkout development`
-9. Push the "development" branch: `git push -u origin development`
-10. Delete the branch "your-name": `git branch -d <your-name>`
-14. Repeat the 10 steps above for all the invitations you received.
+6. Open README file on your favorite text editor (e.g: VScode): `code README.md`
+7. Add 3 lines at the end of the file.
+8. Add the file to the staging index : `git add README.md`
+9. Save the state of the file by making a commit : `git commit -m "your-message"`
+10. Merge "your-name" branch with "development" branch: `git merge development`
+11. Go back to the development branch: `git checkout development`
+12. Push the "development" branch: `git push -u origin development`
+13. Delete the branch "your-name": `git branch -d <your-name>`
+14. Repeat the 13 last steps for all the invitations you received.
 
 ---
 ## Versionning
