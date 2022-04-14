@@ -54,4 +54,6 @@ I have met new friends and the name of our promotion is LoveLace 8.
 
 Below my colleagues are going to complete the missing part of the story:  
 ---
-
+ jose
+ Dev
+ L'ineluctable
