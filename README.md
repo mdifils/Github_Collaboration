@@ -60,3 +60,5 @@ Below my colleagues are going to complete the missing part of the story:
 ---
 Hi jose, very nice and straightforward work. well done! 
 Kind regards, Rein.
+
+ Dev career  comming soon :alien: 
